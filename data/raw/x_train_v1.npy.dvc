@@ -1,0 +1,9 @@
+outs:
+- md5: 8a255f35901fc7a70aef7afee3d142f8
+  size: 51928663
+  hash: md5
+  path: x_train_v1.npy
+
+meta:
+  version: v0.1
+  date: 07/04/2025
